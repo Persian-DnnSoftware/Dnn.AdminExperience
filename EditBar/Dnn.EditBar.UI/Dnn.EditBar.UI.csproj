@@ -162,6 +162,14 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="Dnn.EditBar.UI.dnn" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Light.eot" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Light.ttf" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Light.woff" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Light.woff2" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Medium.eot" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Medium.ttf" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Medium.woff" />
+    <None Include="editBar\css\fonts\IRANSansWeb_Medium.woff2" />
     <None Include="editBar\css\RobotoSlab-Regular.ttf" />
     <None Include="editBar\css\SourceCodePro-Regular.ttf" />
     <None Include="editBar\css\SourceCodePro-Regular.ttf.woff" />
@@ -174,6 +182,8 @@
   <ItemGroup>
     <Content Include="01.05.00.txt" />
     <Content Include="editBar\css\AddModule.css" />
+    <Content Include="editBar\css\editBarContainer.rtl.css" />
+    <Content Include="editBar\css\main.rtl.css" />
     <Content Include="editBar\css\PageSettings.css" />
     <Content Include="editBar\css\ExitEditMode.css" />
     <Content Include="editBar\css\editBarContainer.css" />
@@ -259,8 +269,12 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <EmbeddedResource Include="editBar\App_LocalResources\AddExistingModule.fa-IR.resx" />
     <EmbeddedResource Include="editBar\App_LocalResources\AddExistingModule.resx" />
+    <EmbeddedResource Include="editBar\App_LocalResources\AddModule.fa-IR.resx" />
+    <EmbeddedResource Include="editBar\App_LocalResources\Common.fa-IR.resx" />
     <EmbeddedResource Include="editBar\App_LocalResources\Common.resx" />
+    <EmbeddedResource Include="editBar\App_LocalResources\EditBar.fa-IR.resx" />
     <EmbeddedResource Include="editBar\App_LocalResources\EditBar.resx" />
     <EmbeddedResource Include="editBar\App_LocalResources\AddModule.resx" />
     <EmbeddedResource Include="editBar\resources\ContentEditorManager\App_LocalResources\SharedResources.resx" />
