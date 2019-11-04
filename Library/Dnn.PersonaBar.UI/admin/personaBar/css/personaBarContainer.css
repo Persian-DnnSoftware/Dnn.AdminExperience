@@ -35,3 +35,23 @@ iframe#personaBar-iframe{
     left: 0;
     z-index: 1000;
 }
+/* persian-dnnsoftware */
+.rtl iframe#personaBar-iframe {
+    right: 0;
+    left: auto;
+}
+
+.rtl .pb-scroll-wrapper {
+    right: 0;
+    left: auto;
+}
+
+.rtl.personabar-visible {
+    margin-right: 80px;
+    margin-left: auto;
+}
+
+.rtl .personabar-placeholder {
+    right: 0;
+    left: auto;
+}

@@ -184,6 +184,8 @@
     <Content Include="admin\personaBar\scripts\contrib\jquery.easydropdown.min.js" />
     <Content Include="admin\personaBar\scripts\contrib\moment-jalaali.rtl.js" />
     <Content Include="admin\personaBar\scripts\contrib\moment.rtl.js" />
+    <Content Include="admin\personaBar\scripts\exports\export-bundle.js" />
+    <Content Include="admin\personaBar\scripts\exports\export-bundle.rtl.js" />
     <Content Include="admin\personaBar\scripts\koComponents\dateTimePicker.rtl.html" />
     <Content Include="admin\personaBar\scripts\main.rtl.js" />
     <Content Include="admin\personaBar\scripts\menuIconLoader.js" />

@@ -261,4 +261,13 @@
   <data name="pagerPicker_sortDescendingButtonTooltip.Text" xml:space="preserve">
     <value>ترتیب‌نمایش نزولی</value>
   </data>
+  <data name="MakeCopy.Text" xml:space="preserve">
+    <value>کپی کنید</value>
+  </data>
+  <data name="Page.Text" xml:space="preserve">
+    <value>صفحه:</value>
+  </data>
+  <data name="Site.Text" xml:space="preserve">
+    <value>سایت:</value>
+  </data>
 </root>
