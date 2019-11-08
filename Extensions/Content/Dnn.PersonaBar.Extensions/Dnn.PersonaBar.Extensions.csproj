@@ -740,9 +740,6 @@
   <ItemGroup>
     <Content Include="SqlDataProvider\09.04.01.SqlDataProvider" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="admin\personaBar\Dnn.TaskScheduler\scripts\bundles\task-scheduler-bundle.js.map" />
-  </ItemGroup>
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
   <ProjectExtensions>
