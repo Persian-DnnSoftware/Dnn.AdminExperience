@@ -248,6 +248,7 @@
     <Content Include="editBar\scripts\contrib\require.js" />
     <Content Include="editBar\scripts\contrib\text.js" />
     <Content Include="editBar\scripts\editBarContainer.js" />
+    <Content Include="editBar\scripts\main.rtl.js" />
     <Content Include="editBar\scripts\PageSettings.js" />
     <Content Include="editBar\scripts\eventEmitter.js" />
     <Content Include="editBar\scripts\gateway.js" />
@@ -280,6 +281,7 @@
     <EmbeddedResource Include="editBar\App_LocalResources\AddModule.resx" />
     <EmbeddedResource Include="editBar\resources\ContentEditorManager\App_LocalResources\SharedResources.fa-IR.resx" />
     <EmbeddedResource Include="editBar\resources\ContentEditorManager\App_LocalResources\SharedResources.resx" />
+    <EmbeddedResource Include="editBar\resources\ContentEditorManager\LocalResources.fa-IR.resources" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="Module.build" />

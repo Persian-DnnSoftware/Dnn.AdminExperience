@@ -633,3 +633,152 @@ div#recycleBin-header.socialpanelheader .actions {
     }
 
 /* END OF TREE OF PAGES STYLES */
+
+/* ===========   persian-dnnsoftware   =========== */
+.rtl .recycleBinContainer div.title span.caption {
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.rtl .recycleBinContainer div.title > a {
+    padding-left: 0;
+    padding-right: 16px;
+    background: url('../Images/icon-back-blue.png') no-repeat right center;
+    float: left;
+}
+
+.rtl .recycleBinContainer ul.tabs-nav li {
+    float: right;
+}
+
+.rtl div#recycleBin-header.socialpanelheader .actions {
+    float: left;
+    right: auto;
+    left: 0;
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+    .rtl div#recycleBin-header.socialpanelheader .actions a.button {
+        margin: 0 0 0 38px;
+    }
+
+.rtl .recycleBinContainer table.dnnRBGrid tr.dnnRBGridHeader td {
+    text-align: right;
+    font-family: inherit;
+}
+
+    .rtl .recycleBinContainer table.dnnRBGrid tr.dnnRBGridHeader td.mtitle {
+        border-right: 0;
+    }
+
+    .rtl .recycleBinContainer table.dnnRBGrid tr.dnnRBGridHeader td.first {
+        border-left: 0;
+    }
+
+    .rtl .recycleBinContainer table.dnnRBGrid tr.dnnRBGridHeader td.thumbnail.pagename {
+        border-right: 0;
+    }
+
+.rtl .recycleBinContainer table.dnnRBGrid td.thumbnail .image-table {
+    float: right;
+}
+
+    .rtl .recycleBinContainer table.dnnRBGrid td.thumbnail .image-table img {
+        margin-right: auto;
+        margin-left: 20px;
+    }
+
+.rtl .recycleBinContainer table.dnnRBGrid td.pagename {
+    padding-left: 0;
+    padding-right: 9px;
+    text-align: right;
+}
+
+.rtl .recycleBinContainer div.rbactions {
+    text-align: left;
+}
+
+.rtl .recycleBinContainer td.actions span.restore {
+    padding-right: 0;
+    padding-left: 10px;
+}
+
+.recycleBinContainer table.dnnRBGrid td.username, .recycleBinContainer table.dnnRBGrid td.displayname {
+    text-align: right;
+}
+
+.rtl .recycleBinContainer td.actions span.remove {
+    padding-right: 0;
+    padding-left: 10px;
+}
+
+.rtl .recycleBinContainer .EmptyList {
+    font-size: 25px;
+    font-family: inherit;
+}
+
+.rtl .recycleBinContainer input[type="checkbox"]:disabled + .qaTooltip {
+    left: auto;
+    right: 20px;
+}
+
+    .rtl .recycleBinContainer input[type="checkbox"]:disabled + .qaTooltip > .tag-menu a.help {
+        left: auto;
+        right: 7px;
+    }
+
+    .rtl .recycleBinContainer input[type="checkbox"]:disabled + .qaTooltip > .tag-menu p {
+        padding-left: 0;
+        padding-right: 10px;
+    }
+
+    .rtl .recycleBinContainer input[type="checkbox"]:disabled + .qaTooltip > .tag-menu:after {
+        border-right: 0;
+        border-left: 7px solid #000;
+        left: auto;
+        right: -14px;
+    }
+
+.rtl .content-container .jspVerticalBar .jspTrack {
+    margin-left: auto !important;
+    margin-right: 2px !important;
+}
+
+.rtl .recycleBinContainer .containerUlPages .hover {
+    left: auto;
+    right: 22px;
+    margin-left: auto;
+    margin-right: -11px;
+}
+
+.rtl .recycleBinContainer .containerUlPages .pageDataContainer .pagename {
+    float: right;
+}
+
+.rtl .recycleBinContainer .containerUlPages .pageDataContainer::before {
+    left: auto;
+    right: -20px;
+}
+
+.rtl .recycleBinContainer .containerUlPages .pageDataContainer::before {
+    left: auto;
+    right: -22px;
+}
+
+.rtl .recycleBinContainer .containerUlPages .treeEdges {
+    border-left: 0;
+    border-right: 2px solid #d9d9d9;
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.rtl .recycleBinContainer .containerUlPages .pageDataContainer {
+    border-left: 0;
+    border-right: 2px solid transparent;
+}
+
+.rtl .recycleBinContainer a.tooltip span:after {
+    left: auto;
+    right: 75px;
+}
