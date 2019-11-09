@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-   Microsoft ResX Schema_Localized
+    Microsoft ResX Schema 
     
     Version 2.0
     
@@ -253,5 +253,31 @@ Unable to add activation back to your invoice as Connection to license server fa
   </data>
   <data name="Success.TrialExtensionRequest" xml:space="preserve">
     <value>Your trial license extension request has been submitted. You should receive an email within 1 business day, with instructions for extending your license. If you have any questions about trial license extensions, please call DNN Corp. Sales Dept. at 650-288-3150.</value>
+  </data>
+  <data name="Intro.Header" xml:space="preserve">
+    <value>پلتفرم فارسی دی اِن اِن</value>
+  </data>
+  <data name="Intro" xml:space="preserve">
+    <value>®DNN (قبلا ®DotNetNuke) یک سیستم مدیریت محتوای (CMS) منبع باز در اکو سیستم مایکروسافت میباشد. از این محصول برای ساخت وب سایت های تجاری، شخصی، پورتال های اجتماعی و ... استفاده میشود. DNN یک سیستم مدیریت وب سایت است که میتوانید محتوای سایت خود را به راحتی و به صورت پویا مدیریت کنید. پلتفرم DNN بیش از 8 میلیون بار دانلود شده اشت و در بیشتر از 750000 وب سایت در سطح جهان مورد استفاده قرار گرفته است. یک شبکه با بیش از 1 میلیون عضو پایدار و پشتیبانی قدرتمند.</value>
+  </data>
+  <data name="GitHub.Header" xml:space="preserve">
+    <value>کد</value>
+  </data>
+  <data name="GitHub" xml:space="preserve">
+    <value>پلتفرم DNN به صورت منبع باز در GitHub مدیریت میشود، از ما در GitHub بازدید کنید و مسائل ، مشکلات و پیشنهادات خود را در خصوص فارسی سازی این سیستم به ما گزارش دهید.
+آدرس ما در GitHub: 
+"https://github.com/Persian-DnnSoftware/Dnn.Platform"</value>
+  </data>
+  <data name="Community.Header" xml:space="preserve">
+    <value>جامعه</value>
+  </data>
+  <data name="Docs.Header" xml:space="preserve">
+    <value>مستندات</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>جامعه DNN فعال و پر جنب و جوش است. برای دیدار با ما و پیوستن به فعالیت ها، دریافت کمک و بحث در مورد پروژه ها.</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>اسناد منبع باز DNN. برای شروع به کار با DNN برای شما آموزش کام به گام قرار داده ایم، همچنین مستندات استفاده از API ها.</value>
   </data>
 </root>

@@ -144,9 +144,6 @@
   <data name="nav_Tools.Text" xml:space="preserve">
     <value>ابزار ها</value>
   </data>
-  <data name="nav_Accounts.Text" xml:space="preserve">
-    <value />
-  </data>
   <data name="nav_DocCenter.Text" xml:space="preserve">
     <value>مرکز مستندات</value>
   </data>

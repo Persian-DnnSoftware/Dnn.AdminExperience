@@ -103,6 +103,7 @@ namespace Dnn.PersonaBar.TaskScheduler.Services
             {
                 var scheduleviews = _controller.GetScheduleItems(null, serverName);
                 var arrSchedule = scheduleviews.ToArray();
+                
                 var response = new
                 {
                     Success = true,

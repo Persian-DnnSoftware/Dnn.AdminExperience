@@ -198,15 +198,6 @@
   <data name="InstallExtensions.Action" xml:space="preserve">
     <value>نصب افزونه های موجود</value>
   </data>
-  <data name="AppTitle.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AppType.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AppDescription.Text" xml:space="preserve">
-    <value />
-  </data>
   <data name="UpgradeMessage.Text" xml:space="preserve">
     <value>برای ارتقاء افزونه اینجا را کلیک نمایید</value>
   </data>
@@ -1210,5 +1201,23 @@
   </data>
   <data name="PagesFromSite.Text" xml:space="preserve">
     <value>نمایش صفحات از سایت :</value>
+  </data>
+  <data name="Connector.Type" xml:space="preserve">
+    <value>اتصالات</value>
+  </data>
+  <data name="BackToEditExtension.Text" xml:space="preserve">
+    <value>بازگشت به ویرایش {0} افزونه</value>
+  </data>
+  <data name="ModuleUsageTitle.Text" xml:space="preserve">
+    <value>استفاده ماژول برای {0}</value>
+  </data>
+  <data name="ModuleUsageDetail.Text" xml:space="preserve">
+    <value>این ماژول در صفحه (های) {0} {1} استفاده می شود:</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>یک ثانیه ... ما در حال گسترش افزونه شما هستیم</value>
+  </data>
+  <data name="Loading.Tooltip" xml:space="preserve">
+    <value>افزونه شما فقط یک لحظه اینجا خواهد بود</value>
   </data>
 </root>

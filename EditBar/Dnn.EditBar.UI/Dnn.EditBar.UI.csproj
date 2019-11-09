@@ -224,6 +224,7 @@
     <Content Include="editBar\resources\ContentEditorManager\Js\ModuleManager.js" />
     <Content Include="editBar\resources\ContentEditorManager\Js\ModuleService.js" />
     <Content Include="editBar\resources\ContentEditorManager\Styles\ContentEditor.css" />
+    <Content Include="editBar\resources\ContentEditorManager\Styles\ContentEditor.rtl.css" />
     <Content Include="editBar\scripts\AddExistingModule.js" />
     <Content Include="editBar\scripts\AddModule.js" />
     <Content Include="editBar\images\bottomArrow.png" />
@@ -277,6 +278,7 @@
     <EmbeddedResource Include="editBar\App_LocalResources\EditBar.fa-IR.resx" />
     <EmbeddedResource Include="editBar\App_LocalResources\EditBar.resx" />
     <EmbeddedResource Include="editBar\App_LocalResources\AddModule.resx" />
+    <EmbeddedResource Include="editBar\resources\ContentEditorManager\App_LocalResources\SharedResources.fa-IR.resx" />
     <EmbeddedResource Include="editBar\resources\ContentEditorManager\App_LocalResources\SharedResources.resx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
